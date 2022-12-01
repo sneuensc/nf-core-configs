@@ -149,6 +149,7 @@ Currently documentation is available for the following systems:
 - [UCL_MYRIAD](docs/ucl_myriad.md)
 - [UCT_HPC](docs/uct_hpc.md)
 - [UNIBE_IBU](docs/unibe_ibu.md)
+- [UNIL](docs/unil.md)
 - [UPPMAX](docs/uppmax.md)
 - [UTD_GANYMEDE](docs/utd_ganymede.md)
 - [UTD_SYSBIO](docs/utd_sysbio.md)
