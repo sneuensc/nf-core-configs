@@ -96,6 +96,7 @@ jobs:
           - "ucl_myriad"
           - "uct_hpc"
           - "unibe_ibu"
+          - "unil"
           - "uppmax"
           - "utd_ganymede"
           - "utd_sysbio"
